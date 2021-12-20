@@ -49,5 +49,5 @@ An example of a regular expression for email:
 
 Sarita Thomas with the support of Top 15 Commonly Used Regex by Niket Pathak (https://digitalfortress.tech/js/top-15-commonly-used-regex/)
 
-- [Link to Github](https://github.com/yourgithubname)
-- [Link to LinkedIn](https://www.linkedin.com/in/yourlinkedinname)
+- [Link to Github](https://github.com/SDB14)
+- [Link to LinkedIn](https://www.linkedin.com/in/sarita-thomas-85628730?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BlfeODdIXSUqHh7obqStjWA%3D%3D)
